@@ -21,8 +21,7 @@ Projeyi cloneladıktan sonra Visual Studio programında açınız.
 
 Linux için:
 > cd kodluyoruzilkrepo
-
-code .
+> code .
 
 
 
@@ -45,7 +44,7 @@ code .
 
 # Link
 
-[Patika Link](www.patika.dev)
+[Patika Link](https://www.patika.dev)
 
 
 
