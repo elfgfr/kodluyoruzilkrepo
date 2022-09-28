@@ -39,9 +39,6 @@ Linux için:
 
 # License
 
-
-## İmage
-
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
