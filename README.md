@@ -26,12 +26,6 @@ code .
 
 
 
-*
-cd kodluyoruzilkrepo
-
-code .
-
-
 
 
 # Contributing
@@ -45,6 +39,13 @@ code .
 # License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+---
+
+# Link
+
+[Patika Link](www.patika.dev)
 
 
 
