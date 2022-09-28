@@ -9,7 +9,8 @@ Bu repo, Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçinde bir adet
 # Installation
 
 Öncelikle projeyi clonelayın. 
-> git clone https://github.com/elfgfr/kodluyoruzilkrepo.git
+
+    git clone https://github.com/elfgfr/kodluyoruzilkrepo.git
 
 
 
@@ -20,9 +21,9 @@ Bu repo, Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçinde bir adet
 Projeyi cloneladıktan sonra Visual Studio programında açınız.
 
 Linux için:
-> cd kodluyoruzilkrepo
->
-> code .
+
+    cd kodluyoruzilkrepo
+    code .
 
 
 
@@ -30,7 +31,7 @@ Linux için:
 
 # Contributing
 
-> Pull requestler kabul edilir. Büyük değişiklikler için, *lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız*.
+    Pull requestler kabul edilir. Büyük değişiklikler için, *lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız*.
 
 
 
