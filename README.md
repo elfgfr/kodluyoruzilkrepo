@@ -22,9 +22,14 @@ Projeyi cloneladıktan sonra Visual Studio programında açınız.
 Linux için:
 > cd kodluyoruzilkrepo
 
-> code .
+code .
 
 
+
+*
+cd kodluyoruzilkrepo
+
+code .
 
 
 
@@ -44,6 +49,8 @@ Linux için:
 
 
 
+
+********
 
 
 ![Kodluyoruz Gorsel](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
